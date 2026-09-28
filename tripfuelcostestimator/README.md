@@ -1,5 +1,3 @@
-NAME : NURSYASYA AINA BINTI ANUAR 
-NO.MATRIC : 307825
 Link Github : https://github.com/Nursyasya11/TripFuelCostEstimator.git
 Link Youtube :
 i. Trip Fuel Cost Estimator
